@@ -1,4 +1,6 @@
 altgraph==0.17.4
+Nuitka==2.7.12
+ordered-set==4.1.0
 packaging==24.2
 pefile==2023.2.7
 pillow==11.1.0
@@ -9,4 +11,5 @@ PyQt6-Qt6==6.8.1
 PyQt6_sip==13.9.1
 pywin32-ctypes==0.2.3
 setuptools==75.8.0
-yt-dlp==2025.1.26
+yt-dlp==2025.7.21
+zstandard==0.23.0
